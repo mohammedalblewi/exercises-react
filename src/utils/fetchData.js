@@ -1,6 +1,6 @@
 export const exerciseOptions =  {
     method: 'GET',
-    // url: 'https://exercisedb.p.rapidapi.com/exercises/bodyPartList',
+    url: 'https://exercisedb.p.rapidapi.com/exercises/bodyPartList',
     headers: {
      
       'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com',
